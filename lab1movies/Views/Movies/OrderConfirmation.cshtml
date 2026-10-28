@@ -1,0 +1,20 @@
+﻿<p>Язык: @Model.AudioTrack.Language</p>
+<p>Файл: @Model.AudioTrack.FilePath</p>
+
+<h3>Субтитры</h3>
+
+<p>Язык: @Model.Subtitle.Language</p>
+<p>Файл: @Model.Subtitle.FilePath</p>
+
+@if (Model.AudioTrack.Language == Model.Subtitle.Language)
+{
+    <p><strong>Проверка пройдена: языки совпадают.</strong></p>
+}
+else
+{
+    <p><strong>Ошибка: языки не совпадают.</strong></p>
+}
+
+<a href="/Movies/Index" class="back-link">
+    Вернуться в каталог
+</a>

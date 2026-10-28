@@ -1,0 +1,373 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:views\\movies\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\models\\moviepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:models\\moviepackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\models\\movielanguagefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:models\\movielanguagefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\subtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\subtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\russianfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\russianfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\isubtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\isubtitles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\iplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\iplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\iaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\iaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\englishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\englishfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\factories\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:factories\\audiotrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\views\\movies\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:views\\movies\\orderconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|c:\\users\\tolik\\source\\repos\\engineering\\lab1movies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BE5CEA1-ED0D-47E1-9FEE-F5BA8880AFC0}|lab1movies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1041134418:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T17:24:41.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-24T17:04:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\Details.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T17:04:14.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieLanguageFiles.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\MovieLanguageFiles.cs",
+              "RelativeDocumentMoniker": "Models\\MovieLanguageFiles.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\MovieLanguageFiles.cs",
+              "RelativeToolTip": "Models\\MovieLanguageFiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:53:02.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderConfirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\OrderConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\OrderConfirmation.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\OrderConfirmation.cshtml",
+              "RelativeToolTip": "Views\\Movies\\OrderConfirmation.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:25:55.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-19T16:24:54.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T16:21:15.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Services\\MovieService.cs",
+              "RelativeToolTip": "Services\\MovieService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAQwGwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:50:02.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-24T17:25:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T13:59:40.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-25T13:59:42.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MoviePackage.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\MoviePackage.cs",
+              "RelativeDocumentMoniker": "Models\\MoviePackage.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\MoviePackage.cs",
+              "RelativeToolTip": "Models\\MoviePackage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:41:35.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EnglishFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\EnglishFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\EnglishFactory.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\EnglishFactory.cs",
+              "RelativeToolTip": "Factories\\EnglishFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIA3wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:39:37.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RussianFactory.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\RussianFactory.cs",
+              "RelativeDocumentMoniker": "Factories\\RussianFactory.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\RussianFactory.cs",
+              "RelativeToolTip": "Factories\\RussianFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:35:34.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Subtitles.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\Subtitles.cs",
+              "RelativeDocumentMoniker": "Factories\\Subtitles.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\Subtitles.cs",
+              "RelativeToolTip": "Factories\\Subtitles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:16:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AudioTrack.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\AudioTrack.cs",
+              "RelativeDocumentMoniker": "Factories\\AudioTrack.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\AudioTrack.cs",
+              "RelativeToolTip": "Factories\\AudioTrack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:13:36.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPlay.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\IPlay.cs",
+              "RelativeDocumentMoniker": "Factories\\IPlay.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\IPlay.cs",
+              "RelativeToolTip": "Factories\\IPlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:11:57.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISubtitles.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\ISubtitles.cs",
+              "RelativeDocumentMoniker": "Factories\\ISubtitles.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\ISubtitles.cs",
+              "RelativeToolTip": "Factories\\ISubtitles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:10:16.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAudio.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\IAudio.cs",
+              "RelativeDocumentMoniker": "Factories\\IAudio.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Factories\\IAudio.cs",
+              "RelativeToolTip": "Factories\\IAudio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T15:06:16.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:52:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tolik\\source\\repos\\engineering\\lab1movies\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T14:45:41.267Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

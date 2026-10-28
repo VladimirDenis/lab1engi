@@ -1,0 +1,10 @@
+C:\Users\tolik\source\repos\engineering\lab1lift\bin\Debug\lab1lift.exe.config
+C:\Users\tolik\source\repos\engineering\lab1lift\bin\Debug\lab1lift.exe
+C:\Users\tolik\source\repos\engineering\lab1lift\bin\Debug\lab1lift.pdb
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.csproj.AssemblyReference.cache
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.LiftF.resources
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.Properties.Resources.resources
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.csproj.GenerateResource.cache
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.exe
+C:\Users\tolik\source\repos\engineering\lab1lift\obj\Debug\lab1lift.pdb

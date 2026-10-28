@@ -1,0 +1,10 @@
+C:\Users\tolik\source\repos\engineering\lab1shapes\bin\Debug\lab1shapes.exe.config
+C:\Users\tolik\source\repos\engineering\lab1shapes\bin\Debug\lab1shapes.exe
+C:\Users\tolik\source\repos\engineering\lab1shapes\bin\Debug\lab1shapes.pdb
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.csproj.AssemblyReference.cache
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.Properties.Resources.resources
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.ShapesF.resources
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.csproj.GenerateResource.cache
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.csproj.CoreCompileInputs.cache
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.exe
+C:\Users\tolik\source\repos\engineering\lab1shapes\obj\Debug\lab1shapes.pdb

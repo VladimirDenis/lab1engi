@@ -1,0 +1,48 @@
+﻿@model lab1movies.Models.Movie
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="movie-details">
+    <img class="details-poster"
+         src="@Model.PosterPath"
+         alt="Постер фильма @Model.Title" />
+
+    <div class="details-content">
+        <p class="eyebrow">КИНО С БОЛЬШОЙ БУКВЫ Г</p>
+
+        <h1>@Model.Title</h1>
+
+        <p class="movie-year">@Model.Year</p>
+
+        <p class="movie-description">@Model.Description</p>
+
+        <h2>Выберите язык</h2>
+
+        <p>
+            Звуковая дорожка и субтитры.
+        </p>
+
+        <form action="/Movies/Order" method="post">
+            <input type="hidden" name="movieId" value="@Model.Id" />
+
+            <label for="language">Язык аудио и субтитров</label>
+
+            <select id="language" name="language" required>
+                @foreach (string language in Model.AvailableLanguages)
+                {
+                    <option value="@language">@language</option>
+                }
+            </select>
+
+            <button class="primary-button" type="submit">
+                Сформировать комплект
+            </button>
+        </form>
+
+        <a href="/Movies/Index" class="back-link">
+            Вернуться в каталог
+        </a>
+    </div>
+</div>

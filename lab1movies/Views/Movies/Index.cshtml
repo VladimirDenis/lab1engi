@@ -1,0 +1,41 @@
+﻿@model List<lab1movies.Models.Movie>
+
+@{
+    ViewData["Title"] = "Каталог фильмов";
+}
+
+<section class="catalog-header">
+    <p class="eyebrow">Фильмы и фильмы а так же фильмы</p>
+    <h1>Каталог</h1>
+    <p>Выберете фильм</p>
+</section>
+
+<section class="movie-grid">
+    @foreach (var movie in Model)
+    {
+        <article class="movie-card">
+            <a class="poster-link"
+               href="@Url.Action("Details", "Movies", new { id = movie.Id })"
+               aria-label="Открыть фильм @movie.Title">
+
+                <img class="movie-poster"
+                     src="@Url.Content(movie.PosterPath)"
+                     alt="Постер фильма @movie.Title" />
+
+                <span class="poster-overlay">
+                    Подробнее о фильме
+                </span>
+            </a>
+
+            <div class="movie-card-info">
+                <h2>
+                    <a href="@Url.Action("Details", "Movies", new { id = movie.Id })">
+                        @movie.Title
+                    </a>
+                </h2>
+
+                <p>@movie.Year Год</p>
+            </div>
+        </article>
+    }
+</section>
